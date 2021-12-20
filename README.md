@@ -53,8 +53,8 @@
             <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
             </td>
-            <td><a href="#"><img alt="SQL" title="SQL" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
+            <td><a href="#"><img alt="MYSQL" title="MYSQL" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a>
             </td>
             <td><a href="#"><img alt="VSCode" title="VSCode" height="28px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" /></a></td>
