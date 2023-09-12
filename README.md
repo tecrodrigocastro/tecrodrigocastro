@@ -78,6 +78,6 @@
 </div>
 
 <div align="center">
-<iframe src="https://tecrodrigocastro.github.io/#/"></iframe>
+<iframe frameborder=0 style="width: 100%; heigth:110%;"  src="https://tecrodrigocastro.github.io/#/"></iframe>
 </div>
 
