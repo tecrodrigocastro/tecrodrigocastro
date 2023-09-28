@@ -69,6 +69,11 @@
    </tbody>
 </table>
 
+## 📊 100 dias de codigo:
+<a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=redrodrigoc">
+  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=redrodrigoc" width="450" height="195" alt="Progresso 100 dias de codigo">
+</a>
+
 
 ## 📊 Github Status:
 <div align="center">
