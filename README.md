@@ -11,7 +11,7 @@
   
   **Senior Full-Stack Developer | Flutter Specialist | Community Leader**
   
-  <img src="https://komarev.com/ghpvc/?username=tecrodrigocastro&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+ 
 </div>
 
 ---
