@@ -1,5 +1,7 @@
 <div align="center">
-  <img width="100%" src="https://github.com/tecrodrigocastro/redrodrigo/blob/main/assets/images/redrodrigo.png" alt="RED Rodrigo Banner"/>
+  
+  <img width="100%" src="Logo.png" alt="RED Rodrigo Banner"/>
+  <!-- <img width="100%" src="https://github.com/tecrodrigocastro/redrodrigo/blob/main/assets/images/redrodrigo.png" alt="RED Rodrigo Banner"/> -->
   
   # Hey there, I'm Rodrigo Castro 🚀
   ### aka **redrodrigo**
@@ -71,12 +73,7 @@ Senior Full-Stack Developer with **10+ years** of experience, specializing in Fl
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tecrodrigocastro&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f85149&icon_color=79c0ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecrodrigocastro&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85149&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tecrodrigocastro&theme=radical&hide_border=true&background=0d1117&stroke=f85149&ring=79c0ff&fire=f85149&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=tecrodrigocastro&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
