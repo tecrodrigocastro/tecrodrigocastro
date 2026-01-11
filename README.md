@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-Senior Full-Stack Developer with **10+ years** of experience, specializing in Flutter mobile development and Laravel backend systems. Based in João Pessoa, Brazil, I work at KingHost while running my own PJ business serving international clients.
+Senior Full-Stack Developer with **8+ years** of experience, specializing in Flutter mobile development and Laravel backend systems. Based in João Pessoa, Brazil, I work at KingHost while running my own PJ business serving international clients.
 
 **Core Expertise:** Clean Architecture, BLoC patterns, FilamentPHP, OWASP security practices, and building scalable enterprise solutions for telecommunications and ERP systems.
 
