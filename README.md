@@ -87,7 +87,7 @@ Senior Full-Stack Developer with **8+ years** of experience, specializing in Flu
 - 🎯 **Organizer** @ Flutterando - Brazil's largest Flutter community
 - 🎤 **Conference Speaker** - Design Systems, FilamentPHP, Flutter architecture
 - 📝 **Content Creator** - Educational tutorials and technical articles
-- 🤝 **Active Member** @ PHP com Rapadura & He4rt Developers communities
+- 🤝 **Active Member** @ PHP com Rapadura, PHP Paraiba & He4rt Developers communities
 - 🎓 **Postgraduate** in Software Engineering
 
 ---
