@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="Logo.png" alt="RED Rodrigo Banner"/>
+  <img width="60%" src="Logo.png" alt="RED Rodrigo Banner"/>
 
   # Rodrigo Castro
   ### aka **redrodrigo**
