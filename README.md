@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Engenheiro de software sênior com **10+ anos de experiência**, especializado em desenvolvimento mobile com Flutter e backend com PHP/Laravel. Atuo na **LWSA** e sou um dos organizadores do **[Flutterando](https://flutterando.com.br)** — a maior comunidade Flutter do Brasil, com mais de **30 mil membros**.
+Engenheiro de software sênior com **8+ anos de experiência**, especializado em desenvolvimento mobile com Flutter e backend com PHP/Laravel. Atuo na **LWSA** e sou um dos organizadores do **[Flutterando](https://flutterando.com.br)** — a maior comunidade Flutter do Brasil, com mais de **30 mil membros**.
 
 Aplico Clean Architecture, BLoC e Result Pattern no dia a dia, lidero iniciativas de qualidade com testes automatizados via **Playwright**, e contribuo com o ecossistema web usando Laravel, Vue.js e Ruby. Tenho experiência com clientes internacionais e projetos de alta complexidade em telecomunicações, ERP e produtos SaaS.
 
