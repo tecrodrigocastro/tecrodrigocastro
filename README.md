@@ -117,7 +117,11 @@ Aberto a colaborações, palestras e projetos internacionais.
 
 <div align="center">
 
-![Snake animation](https://github.com/tecrodrigocastro/tecrodrigocastro/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tecrodrigocastro/tecrodrigocastro/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tecrodrigocastro/tecrodrigocastro/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/tecrodrigocastro/tecrodrigocastro/output/github-contribution-grid-snake.svg" />
+  </picture>
 
 Made with ❤️ from João Pessoa, Brasil — **RED Rodrigo**
 
