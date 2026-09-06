@@ -84,6 +84,11 @@ App Flutter para controlar seu agente de código Pi pelo celular — pareamento 
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tecrodrigocastro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecrodrigocastro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=tecrodrigocastro&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
