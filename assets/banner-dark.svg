@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-label="RED Rodrigo — Software de verdade, do mobile ao backend">
+<rect width="1280" height="440" fill="#141210"/>
+<rect x="46" y="46" width="1188" height="348" fill="#F3EEE4"/>
+<rect x="40" y="40" width="1188" height="348" fill="#1F1C19" stroke="#F3EEE4" stroke-width="4"/>
+<!-- badge -->
+<rect x="80" y="76" width="262" height="36" fill="#F5B82E" stroke="#141210" stroke-width="2"/>
+<circle cx="102" cy="94" r="6" fill="#141210"/>
+<text x="118" y="99" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#141210" letter-spacing="1">ABERTO A FREELAS</text>
+<!-- headline -->
+<text font-family="'Bricolage Grotesque','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="56" fill="#F3EEE4" letter-spacing="-1.5">
+<tspan x="80" y="188">Software de verdade,</tspan>
+<tspan x="80" y="250">do <tspan fill="#FF6B57">mobile</tspan> ao</tspan>
+<tspan x="80" y="312">backend<tspan fill="#FF6B57">.</tspan></tspan></text>
+<rect x="80" y="322" width="236" height="8" fill="#D42A16"/>
+<text x="80" y="366" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#B8AFA3">RED · Rodrigo Castro · João Pessoa, PB</text>
+<!-- terminal -->
+<rect x="764" y="96" width="400" height="236" fill="#D42A16" transform="translate(8 8)"/>
+<rect x="764" y="96" width="400" height="236" fill="#141210" stroke="#F3EEE4" stroke-width="3"/>
+<rect x="764" y="96" width="400" height="34" fill="#2A2622"/>
+<circle cx="786" cy="113" r="6" fill="#FF6B57"/><circle cx="808" cy="113" r="6" fill="#F5B82E"/><circle cx="830" cy="113" r="6" fill="#8FD19E"/>
+<text x="964" y="118" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#B8AFA3" text-anchor="middle">red@jampa ~</text>
+<g font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">
+<text x="788" y="168" fill="#FF6B57">$ <tspan fill="#F3EEE4">whoami</tspan></text>
+<text x="788" y="194" fill="#B8AFA3">Rodrigo "RED" Castro</text>
+<text x="788" y="228" fill="#FF6B57">$ <tspan fill="#F3EEE4">stack</tspan></text>
+<text x="788" y="254" fill="#B8AFA3">flutter · laravel · playwright</text>
+<text x="788" y="288" fill="#FF6B57">$ <tspan fill="#F3EEE4">status</tspan></text>
+<text x="788" y="314" fill="#8FD19E">✓ aberto a freelas</text>
+</g>
+<!-- stats strip -->
+<g font-family="'Bricolage Grotesque','Helvetica Neue',Arial,sans-serif" font-weight="800" fill="#F3EEE4">
+<text x="764" y="368" font-size="26">8+</text><text x="806" y="368" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-weight="400" font-size="13" fill="#B8AFA3">anos</text>
+<text x="884" y="368" font-size="26">30k+</text><text x="956" y="368" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-weight="400" font-size="13" fill="#B8AFA3">Flutterando</text>
+<text x="1060" y="368" font-size="26">153</text><text x="1112" y="368" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-weight="400" font-size="13" fill="#B8AFA3">repos</text>
+</g>
+</svg>
