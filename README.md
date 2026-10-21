@@ -27,16 +27,16 @@ Aplico Clean Architecture, BLoC e Result Pattern no dia a dia, lidero iniciativa
   <img src="assets/h-projetos-light.svg" alt="Projetos em destaque" width="100%">
 </picture>
 
-**📱 App KingHost (LWSA)**
+**📱 App KingHost (LWSA)**<br>
 Primeiro produto mobile da empresa. Desenvolvimento frontend com Flutter (Clean Architecture + BLoC) e contribuição na construção dos endpoints backend em PHP/Laravel para o MVP.
 
-**🔥 [Bonfire](https://bonfire.watch)**
+**🔥 [Bonfire](https://bonfire.watch)**<br>
 Projeto pessoal publicado — app de rastreamento de filmes e séries, com diário de exibições, avaliações, listas e progresso de franquias. Stack completa: Flutter (Clean Architecture + BLoC) no app, Laravel + FilamentPHP no backend e Nuxt na landing e web app.
 
-**🏗️ Design Systems**
+**🏗️ Design Systems**<br>
 Criação de bibliotecas de componentes reutilizáveis para times de produto, garantindo consistência visual e reduzindo tempo de desenvolvimento em até 70%.
 
-**📡 Sistemas Telecom**
+**📡 Sistemas Telecom**<br>
 Soluções de gerenciamento para ISPs regionais com GPON, integração multi-vendor de OLTs (Huawei, ZTE, Datacom), automação via SNMP/SSH e provisionamento TR-069.
 
 💼 Precisa tirar uma ideia do papel? **[redrodrigo.com/freelancer](https://redrodrigo.com/freelancer)**
@@ -46,18 +46,18 @@ Soluções de gerenciamento para ISPs regionais com GPON, integração multi-ven
   <img src="assets/h-opensource-light.svg" alt="Open source" width="100%">
 </picture>
 
-**[🧱 base_clean_arch_bloc](https://github.com/tecrodrigocastro/base_clean_arch_bloc)** ![Stars](https://img.shields.io/github/stars/tecrodrigocastro/base_clean_arch_bloc?style=flat&logo=github&label=&color=D42A16&labelColor=141210)
+**[🧱 base_clean_arch_bloc](https://github.com/tecrodrigocastro/base_clean_arch_bloc)** ![Stars](https://img.shields.io/github/stars/tecrodrigocastro/base_clean_arch_bloc?style=flat&logo=github&label=&color=D42A16&labelColor=141210)<br>
 Projeto base Flutter com Clean Architecture e BLoC para gerenciamento de estado, seguindo princípios de SOLID — ponto de partida usado em projetos próprios e de clientes.
 
-**[🎨 design-system-flutter-template](https://github.com/tecrodrigocastro/design-system-flutter-template)** ![Stars](https://img.shields.io/github/stars/tecrodrigocastro/design-system-flutter-template?style=flat&logo=github&label=&color=D42A16&labelColor=141210)
+**[🎨 design-system-flutter-template](https://github.com/tecrodrigocastro/design-system-flutter-template)** ![Stars](https://img.shields.io/github/stars/tecrodrigocastro/design-system-flutter-template?style=flat&logo=github&label=&color=D42A16&labelColor=141210)<br>
 Template de design system para Flutter: design tokens, componentes em Atomic Design, documentação via DartDoc, galeria Widgetbook e um servidor MCP para assistentes de IA.
 
-**[📦 dartisan](https://github.com/tecrodrigocastro/dartisan)** ![Stars](https://img.shields.io/github/stars/tecrodrigocastro/dartisan?style=flat&logo=github&label=&color=D42A16&labelColor=141210)
+**[📦 dartisan](https://github.com/tecrodrigocastro/dartisan)** ![Stars](https://img.shields.io/github/stars/tecrodrigocastro/dartisan?style=flat&logo=github&label=&color=D42A16&labelColor=141210)<br>
 Servidor self-hosted e open source de repositório de pacotes Dart/Flutter, compatível com o protocolo pub (`dart pub` / `flutter pub`).
 
 ### 🤝 Contribuições
 
-**[remote_pi](https://github.com/jacobaraujo7/remote_pi)** ![Stars](https://img.shields.io/github/stars/jacobaraujo7/remote_pi?style=flat&logo=github&label=&color=D42A16&labelColor=141210)
+**[remote_pi](https://github.com/jacobaraujo7/remote_pi)** ![Stars](https://img.shields.io/github/stars/jacobaraujo7/remote_pi?style=flat&logo=github&label=&color=D42A16&labelColor=141210)<br>
 App Flutter para controlar seu agente de código Pi pelo celular — pareamento via QR code e chat com o agente local mesmo longe do computador.
 
 Todos os projetos em **[redrodrigo.com/open-source](https://redrodrigo.com/open-source)**
@@ -67,16 +67,16 @@ Todos os projetos em **[redrodrigo.com/open-source](https://redrodrigo.com/open-
   <img src="assets/h-stack-light.svg" alt="Stack" width="100%">
 </picture>
 
-**Mobile**
+**Mobile**<br>
 ![Flutter](https://img.shields.io/badge/Flutter-141210?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-141210?style=for-the-badge&logo=dart&logoColor=white)
 
-**Backend & Web**
+**Backend & Web**<br>
 ![PHP](https://img.shields.io/badge/PHP-141210?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-141210?style=for-the-badge&logo=laravel&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-141210?style=for-the-badge&logo=ruby&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-141210?style=for-the-badge&logo=vue.js&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-141210?style=for-the-badge&logo=livewire&logoColor=white) ![FilamentPHP](https://img.shields.io/badge/FilamentPHP-F5B82E?style=for-the-badge&logoColor=141210)
 
-**Qualidade & Infra**
+**Qualidade & Infra**<br>
 ![Playwright](https://img.shields.io/badge/Playwright-141210?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-141210?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-141210?style=for-the-badge&logo=git&logoColor=white)
 
-**Banco de dados**
+**Banco de dados**<br>
 ![MySQL](https://img.shields.io/badge/MySQL-141210?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141210?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-141210?style=for-the-badge&logo=firebase&logoColor=white)
 
 ---
