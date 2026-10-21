@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="76" viewBox="0 0 1000 76" role="img" aria-label="Projetos em destaque">
+<rect x="0" y="0" width="1000" height="76" fill="#141210"/>
+<rect x="8" y="14" width="56" height="48" fill="#D42A16" stroke="#F3EEE4" stroke-width="3"/>
+<text x="36" y="46" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle">02</text>
+<text x="86" y="50" font-family="'Bricolage Grotesque','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="34" fill="#F3EEE4" letter-spacing="-0.5">Projetos em destaque</text>
+<rect x="86" y="64" width="390" height="4" fill="#D42A16"/>
+<line x1="506" y1="38" x2="992" y2="38" stroke="#3A3530" stroke-width="3" stroke-dasharray="2 8" stroke-linecap="round"/>
+</svg>
